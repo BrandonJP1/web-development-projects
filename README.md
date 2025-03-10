@@ -1,2 +1,2 @@
 # web-development-projects
-HEllo everybody
+Hello everybody
